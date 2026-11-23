@@ -1,0 +1,138 @@
+{
+    "freezing": {
+        "winter accessories": [
+            "prana winter coat, hat and gloves"
+        ],
+        "jackets": [
+            "prana blue jacket",
+            "prana checkered jacket",
+            "32 heat jacket",
+            "old navy black jacket"
+        ],
+        "hoodies/sweatshirts": [
+            "aeropostale teal hoodie",
+            "red amazon hoodie",
+            "yellow amazon hoodie",
+            "black cotton on hoodie",
+            "green snoopy hoodie",
+            "cream seattle hoodie"
+        ],
+        "tops": [
+            "brown thumb-hole long sleeve",
+            "purple crew-neck long sleeve",
+            "black square-neck long sleeve",
+            "pink square-neck long sleeve",
+            "white square-neck long sleeve"
+        ],
+        "pants": [
+            "ross dark blue jeans",
+            "ross light blue jeans",
+            "old navy black jeans",
+            "uniqlo blue jeans",
+            "grey jeans",
+            "columbia black sweats",
+            "gap brown sweats",
+            "gap blue sweats",
+            "target grey swears",
+            "costco grey sweats"
+        ]
+    },
+    "cold": {
+        "jackets": [
+            "prana blue jacket",
+            "prana checkered jacket",
+            "32 heat jeacket",
+            "old navy black jacket"
+        ],
+        "hoodies": [
+            "aeropostale teal hoodie",
+            "red amazon hoodie",
+            "yellow amazon hoodie",
+            "black cotton on hoodie",
+            "green snoopy hoodie",
+            "cream seattle hoodie"
+        ],
+        "tops": [
+            "brown thumb-hole long sleeve",
+            "purple crew-neck long sleeve",
+            "black square-neck long sleeve",
+            "pink square-neck long sleeve",
+            "white square-neck long sleeve"
+        ],
+        "jeans": [
+            "ross dark blue jeans",
+            "ross light blue jeans",
+            "old navy black jeans",
+            "uniqlo blue jeans",
+            "grey jeans"
+        ]
+    },
+    "cool": {
+        "hoodies": [
+            "aeropostale teal hoodie",
+            "red amazon hoodie",
+            "yellow amazon hoodie",
+            "black cotton on hoodie",
+            "green snoopy hoodie",
+            "cream seattle hoodie"
+        ],
+        "tops": [
+            "brown thumb-hole long sleeve",
+            "purple crew-neck long sleeve",
+            "black square-neck long sleeve",
+            "pink square-neck long sleeve",
+            "white square-neck long sleeve"
+        ],
+        "jeans": [
+            "ross dark blue jeans",
+            "ross light blue jeans",
+            "old navy black jeans",
+            "uniqlo blue jeans",
+            "grey jeans"
+        ]
+    },
+    "pleasant": {
+        "tops": [
+            "brown thumb-hole long sleeve",
+            "purple crew-neck long sleeve",
+            "black square-neck long sleeve",
+            "pink square-neck long sleeve",
+            "white square-neck long sleeve",
+            "snoopy grey sweatshirt",
+            "uniqlo black sweater",
+            "columbia teal sweatshirt",
+            "north face purple sweater"
+        ],
+        "jeans": [
+            "ross dark blue jeans",
+            "ross light blue jeans",
+            "old navy black jeans",
+            "uniqlo blue jeans",
+            "grey jeans"
+        ]
+    },
+    "warm": {
+        "tops": [
+            "red snoopy tee",
+            "blue snoopy tee",
+            "red square neck tee",
+            "blue square neck tee",
+            "black crew neck tee",
+            "white crew neck tee",
+            "light blue crew neck tee",
+            "purple deca tee",
+            "blue red stripey tee"
+        ],
+        "pants": [
+            "dark blue target shorts",
+            "light blue ae shorts",
+            "grey shorts",
+            "purple skirt",
+            "ross dark blue jeans",
+            "ross light blue jeans",
+            "old navy black jeans",
+            "uniqlo blue jeans",
+            "grey jeans"
+        ]
+    }
+}
