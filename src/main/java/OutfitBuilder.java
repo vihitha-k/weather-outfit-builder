@@ -3,6 +3,7 @@ import java.net.*;
 import java.net.http.*;
 import java.net.http.HttpResponse.BodyHandlers;
 import java.util.ArrayList;
+import com.google.gson.Gson;
 
 public class OutfitBuilder {
 
@@ -18,6 +19,7 @@ public class OutfitBuilder {
         try {
             HttpResponse<String> response = client.send(request, BodyHandlers.ofString());
             //find temperature for current day from 6 am local time to 8 pm (20 pm) local time, store in array
+
         } catch (InterruptedException e) {
             e.printStackTrace();
         } catch (IOException e) {
